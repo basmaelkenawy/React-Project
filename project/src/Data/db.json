@@ -1,0 +1,23 @@
+{"posts": [
+    {
+      "title": "iphone",
+      "description": "Lorem ipsum, dolor sit amet consectetur",
+    },
+    {
+      "title": "headphone",
+      "description": "Lorem ipsum, dolor sit amet consectetur",
+    },
+    {
+      "title": "speacker",
+      "description": "Lorem ipsum, dolor sit amet consectetur",
+    },
+    {
+      "title": "charger",
+      "description": "Lorem ipsum, dolor sit amet consectetur",
+    },
+    {
+      "title": "powerbank",
+      "description": "Lorem ipsum, dolor sit amet consectetur",
+    }
+  ]
+}
